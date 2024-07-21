@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "Bebras Belgium"
   text: "Bebras Belgium"
-  tagline: English version
+  tagline: Nederlandse versie
   actions:
     - theme: brand
       text: Markdown Examples
