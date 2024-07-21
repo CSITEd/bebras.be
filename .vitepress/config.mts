@@ -35,7 +35,7 @@ export default defineConfig({
       lang: 'fr',
       themeConfig: {
         nav: [
-          { text: 'Accueil', link: '/' },
+          { text: 'Accueil', link: '/fr/' },
           { text: 'À propos', link: '/fr/about/' },
         ],
         sidebar: {
@@ -59,7 +59,7 @@ export default defineConfig({
       lang: 'nl',
       themeConfig: {
         nav: [
-          { text: 'Home', link: '/' },
+          { text: 'Home', link: '/nl/' },
           { text: 'Over ons', link: '/nl/about/' },
         ],
         sidebar: {
