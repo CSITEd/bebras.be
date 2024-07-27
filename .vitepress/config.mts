@@ -12,6 +12,7 @@ export default defineConfig({
       themeConfig: {
         nav: [
           { text: 'Home', link: '/' },
+          { text: 'FAQ', link: '/faq/' },
           { text: 'About us', link: '/about/' },
         ],
         sidebar: {
@@ -36,8 +37,10 @@ export default defineConfig({
       themeConfig: {
         nav: [
           { text: 'Accueil', link: '/fr/' },
+          { text: 'FAQ', link: '/fr/faq/' },
           { text: 'À propos', link: '/fr/about/' },
         ],
+        outlineTitle: 'Sur cette page',
         sidebar: {
           '/fr/about/': [
             {
@@ -60,8 +63,10 @@ export default defineConfig({
       themeConfig: {
         nav: [
           { text: 'Home', link: '/nl/' },
+          { text: 'FAQ', link: '/nl/faq/' },
           { text: 'Over ons', link: '/nl/about/' },
         ],
+        outlineTitle: 'Op deze pagina',
         sidebar: {
           '/nl/about/': [
             {
