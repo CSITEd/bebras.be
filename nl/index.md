@@ -2,17 +2,17 @@
 layout: homepage
 challenge:
   challenge: Bebras-wedstrijd
-  current_edition: 2025
-  pre: 'De 14e editie van de Belgische Bebras-wedstrijd ging door van'
-  dates: 10 november t.e.m. 22 november 2025
+  current_edition: 2026
+  pre: 'De 15e editie van de Belgische Bebras-wedstrijd ging door van'
+  dates: 9 november t.e.m. 20 november 2025
 actions:
   test_platform: Je kan een proefwedstrijdje anoniem uitproberen op de wedstrijd-server.
   test: Proefwedstrijd
 stats:
-  pre: 'In 2024 hadden we:'
-  schools: 60
-  pupils: 5652
-  tasks: 31
+  pre: 'In 2025 hadden we:'
+  schools: 52
+  pupils: 6441
+  tasks: 30
 ---
 
 De Bebras-wedstrijd heeft tot doel de deelnemers warm te maken voor **informaticawetenschappen** 
@@ -23,6 +23,6 @@ onderwijs, maar ook open voor het 5e en 6e leerjaar, gaat door in de scholen zel
 tijdens twee weken in de herfst. Het is een **internationale wedstrijd** die 
 ondertussen reeds wordt georganiseerd in meer dan 80 landen over de hele wereld.
 
-Voorlopige resultaten voor de Bebras-wedstrijd van 2025 vind je op de [resultatenpagina](results/).
+Resultaten voor de Bebras-wedstrijd van 2025 vind je op de [resultatenpagina](results/).
 
  
